@@ -4,3 +4,9 @@ body {
 h1 {
     font-size: 2em; color: #f00; text-align: center;
 }
+h2 {
+    font-size: 1.5em; color: orange;
+}
+p {
+    font-size: 1em; text-align: center;
+}
